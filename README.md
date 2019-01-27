@@ -36,8 +36,9 @@ Validation has been added via `eslint-plugin-graphql`:
 
 <img width="512" alt="screen shot 2019-01-26 at 6 49 01 pm" src="https://user-images.githubusercontent.com/236943/51796580-8110d900-21ab-11e9-91a7-1cc6d6a068fc.png">
 
-**TODO:** Figure out how to generate usable types for TypeScript with
-`apollo-cli`.
+**TODO:**
+
+- [ ] Figure out how to generate usable types for TypeScript with `apollo-cli`.
 
 <details>
   <summary>Gatsby API Details</summary>
